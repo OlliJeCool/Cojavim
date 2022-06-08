@@ -1,0 +1,15 @@
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\bin\Debug\net6.0\CoJaVim.exe
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\bin\Debug\net6.0\CoJaVim.deps.json
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\bin\Debug\net6.0\CoJaVim.runtimeconfig.json
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\bin\Debug\net6.0\CoJaVim.dll
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\bin\Debug\net6.0\ref\CoJaVim.dll
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\bin\Debug\net6.0\CoJaVim.pdb
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\obj\Debug\net6.0\CoJaVim.csproj.AssemblyReference.cache
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\obj\Debug\net6.0\CoJaVim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\obj\Debug\net6.0\CoJaVim.AssemblyInfoInputs.cache
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\obj\Debug\net6.0\CoJaVim.AssemblyInfo.cs
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\obj\Debug\net6.0\CoJaVim.csproj.CoreCompileInputs.cache
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\obj\Debug\net6.0\CoJaVim.dll
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\obj\Debug\net6.0\ref\CoJaVim.dll
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\obj\Debug\net6.0\CoJaVim.pdb
+C:\Users\ollid\source\repos\CoJaVim\CoJaVim\obj\Debug\net6.0\CoJaVim.genruntimeconfig.cache
